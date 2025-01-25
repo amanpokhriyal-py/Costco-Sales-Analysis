@@ -3,10 +3,7 @@
 
 Welcome to the **Power BI Sales Insights Dashboard**, a comprehensive solution for analyzing 5 years of Costco global sales data (2020–2024). This dashboard is designed to empower businesses with actionable insights into performance trends, customer segmentation, and product profitability, all while showcasing my expertise in Power BI and real-world problem-solving.
 
----
-<div style="text-align: center;">
-    <img src="Costco logo.png" alt="alt text" width="600" height="130">
-</div>
+
 
 ## 🌟 **Project Overview**
 
