@@ -1,37 +1,32 @@
 # Costco-Sales-Analysis
+
+![Costco-Wholesale-Logo](https://github.com/user-attachments/assets/cb8aab52-fd16-4415-98ba-05671fd9b876)
+
 #  **Power BI Sales Insights Dashboard: 5-Year Detailed Analysis of Costco Global Sales** 
 
 Welcome to the **Power BI Sales Insights Dashboard**, a comprehensive solution for analyzing 5 years of Costco global sales data (2020–2024). This dashboard is designed to empower businesses with actionable insights into performance trends, customer segmentation, and product profitability, all while showcasing my expertise in Power BI and real-world problem-solving.
 
 
 
-## 🌟 **Project Overview**
+##  **Project Overview**
 
 The dashboard leverages **Power BI** to provide a data-driven approach for analyzing and visualizing key metrics, ensuring businesses can make informed decisions. From data preprocessing to creating dynamic visualizations, this project demonstrates a strong grasp of Power BI capabilities, including **Power Query**, **data modeling**, and **DAX formulas**.
 
-## 🚀 **Why This Dashboard Stands Out**
 
-- **Advanced Power Query Skills**:
-  - Demonstrated ability to clean and preprocess complex datasets.
-- **Dynamic Visualizations**:
-  - User-friendly and interactive dashboards for both technical and non-technical audiences.
-- **Real-World Problem Solving**:
-  - Addressing business challenges like revenue tracking, customer segmentation, and performance analysis.
-- **Comprehensive Data Modeling**:
-  - Efficient integration of multiple datasets into a unified model.
-- **KPI Implementation**:
-  - Advanced insights with year-over-year comparisons and trend tracking.
-
-## 🌟 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
+##  𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
 
 * Interactive Slicers & Bookmarks: Designed slicer panels with pop-out functionality, enhancing user engagement and navigation.
 * Dynamic Visualizations: Developed a variety of visuals including donut charts, bar charts, and line charts with real-time comparisons to target metrics.
 * Advanced KPI Development: Created custom metrics to measure sales growth, profit, and quantities vs. last year's performance.
 * Targeted Business Insights: Focused on real-world sales and growth metrics to reflect key performance indicators (KPIs) that businesses value.
 
+![Costco Sales Analysis](https://github.com/user-attachments/assets/178d45cd-1ce3-42c5-af4b-55204da02970)
 
 
-## 🎯 **Business Problems Solved**
+
+👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYjZkNThiZTEtZTY5Mi00MDcyLWIwMTQtMmJkY2JmMGQzMjMwIiwidCI6ImNhMjA3Nzk3LWNiMWItNDM4MC05NGE2LWE2NDgzYTE5OGFiNSJ9
+)**
+##  **Business Problems Solved**
 
 1. **Revenue and Profit Analysis**:
    - Identify top-performing regions and segments to allocate resources effectively.
@@ -59,15 +54,15 @@ The dashboard leverages **Power BI** to provide a data-driven approach for analy
 
 ---
 
-## 💡 **Key Takeaways for Stakeholders**
+##  **Key Takeaways for Stakeholders**
 
-- 📊 **Executives**: Gain a high-level overview of revenue, profit, and sales trends.
-- 🛍️ **Sales Teams**: Identify opportunities for upselling and improving regional performance.
-- 📈 **Analysts**: Drill down into granular data for deeper insights.
+-  **Executives**: Gain a high-level overview of revenue, profit, and sales trends.
+-  **Sales Teams**: Identify opportunities for upselling and improving regional performance.
+-  **Analysts**: Drill down into granular data for deeper insights.
 
 ---
 
-## 🛠️ **Key Features**
+## 🛠 **Key Features**
 
 ### 1. **Data Preprocessing Using Power Query**
 - ✅ Removed duplicates and replaced invalid values with `NULL` to ensure data consistency.
@@ -116,6 +111,4 @@ Using DAX formulas, the following metrics were derived:
   - **Quantity Sold**
 - KPI highlights year-over-year trends, enabling quick identification of growth or decline.
 
----
 
-🎉**Empowering Data-Driven Decisions with Power BI** 🌟
