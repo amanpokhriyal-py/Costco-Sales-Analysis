@@ -20,11 +20,12 @@ The dashboard leverages **Power BI** to provide a data-driven approach for analy
 * Advanced KPI Development: Created custom metrics to measure sales growth, profit, and quantities vs. last year's performance.
 * Targeted Business Insights: Focused on real-world sales and growth metrics to reflect key performance indicators (KPIs) that businesses value.
 
-![Costco Sales Analysis](https://github.com/user-attachments/assets/178d45cd-1ce3-42c5-af4b-55204da02970)
+![Costco Sales Analysis]![Screenshot 2025-02-04 222006](https://github.com/user-attachments/assets/10e89a35-33f8-44d3-99e3-f7980ff4a1c7)
 
 
 
-👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYjZkNThiZTEtZTY5Mi00MDcyLWIwMTQtMmJkY2JmMGQzMjMwIiwidCI6ImNhMjA3Nzk3LWNiMWItNDM4MC05NGE2LWE2NDgzYTE5OGFiNSJ9
+
+👉 **[Explore the Dashboard Here](https://app.powerbi.com/groups/me/reports/dc2ce007-c28e-4cb0-adab-2b2b1555d4c2/59f62744f5672e9ff857?experience=power-bi
 )**
 ##  **Business Problems Solved**
 
